@@ -20,7 +20,7 @@ class SyncPlugin {
           return content
         },
         size() {
-          content.length
+          return content.length
         }
       }
     })
